@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🧠 SMRITIMITRA
 
 ### AI Cognitive Care for Elderly Dementia Support
@@ -7,14 +5,6 @@
 **Technology that remembers to care.**
 
 **SIH26003 • North Eastern Region**
-
-</div>
-
----
-
-## 🎬 JURY DEMO
-
-![](smritimitra-jury-demo.mp4)
 
 ---
 
@@ -55,13 +45,3 @@ to this elderly-care ecosystem.**
 
 ---
 
-<sub>
-*Government sources: PIB / Government of India • SIH26003 problem statement •
-Relevant dementia research literature
-</sub>
-
-<div align="center">
-
-**SMRITIMITRA — Technology that remembers to care.**
-
-</div>
